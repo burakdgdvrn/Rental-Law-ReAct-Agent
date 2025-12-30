@@ -1,0 +1,449 @@
+--------------------------------------------------
+SORU 1: 1. Bir ev kiraladım ama kombisi bozuk çıktı. Ev sahibi yaptırmıyor. Kendi cebimden yaptırıp kiradan düşebilir miyim?
+SÜRE: 35.28 saniye
+--------------------
+CEVAP:
+Kiracı, kombinin bozukluğunu bildirdiği halde ev sahibi tarafından repair yapılmaması durumunda, complaint vererek problemi çözmeyeceğini düşünüyor. 
+Bu durumda, kiracı, ev sahiplerinden birine complaint vererek problemi çözmeyeceğini düşünüyor.
+
+==================================================
+--------------------------------------------------
+SORU 2: 2. Kiralanan evi teslim aldığımda boyası çok kötüydü. Evden çıkarken evi boyatmak zorunda mıyım?
+SÜRE: 64.04 saniye
+--------------------
+CEVAP:
+Kanuna göre, kiracı tarafından boyayı onarmaması durumunda, kiracıya boyayı onarmak için 30 gün süre verilir. Bu süre içinde boyayı onarmamışsa, kiracı, evi teslimmekle yükümlüdür.
+
+==================================================
+
+--------------------------------------------------
+SORU 3: 3. Ev sahibi, kira sözleşmesine "Evi erken boşaltırsan kalan ayların kirasını peşin ödersin" diye bir madde koymuş. Bu madde geçerli midir?
+SÜRE: 30.84 saniye
+--------------------
+CEVAP:
+Evi satın alan ev sahibi, kira sözleşmesine "Evi erken boşaltırsan kalan ayların kirasını peşin ödersin" diye bir madde koymuş olabilir. Ancak, Borçlar Kanunu'nun 6. maddesi ile Kira Hukuku'nun 7. maddeleri bu konuya ilişkin information vermedi.
+
+==================================================
+
+--------------------------------------------------
+SORU 4: 4. Kiracı kirayı ödemezse, ev sahibi elektriğini ve suyunu kestirebilir mi?
+SÜRE: 56.55 saniye
+--------------------
+CEVAP:
+Üzgünüm, yasal mevzuatta net bir cevap bulamadım veya işlem çok uzadı.
+
+==================================================
+
+--------------------------------------------------
+SORU 5: 5. Kiralanan evde yangın çıktı ve eşyalarım zarar gördü. Ev sahibinin kusuru yoksa yine de zararımı ödemek zorunda mı?
+SÜRE: 141.98 saniye
+--------------------
+CEVAP:
+Yangın olayı ile ilgili Borçlar Kanunu'nun 6/3. maddesi, yangın olayının ev sahibinin kusuru olmamasına rağmen, kiracıya zarar verdiğinde, kiracı da ev sahibinden zararını talep edebilir.
+
+==================================================
+
+--------------------------------------------------
+SORU 6: 6. Kiraladığım dükkana tadilat yaptım ve değerini artırdım. Çıkarken bu değer artışını ev sahibinden isteyebilir miyim?
+SÜRE: 82.14 saniye
+--------------------
+CEVAP:
+Üzgünüm, yasal mevzuatta net bir cevap bulamadım veya işlem çok uzadı.
+
+==================================================
+
+--------------------------------------------------
+SORU 7: 7. Kiracı, ev sahibinden habersiz evi başkasına (alt kiracıya) kiralayabilir mi? Konut ve işyeri fark eder mi?
+SÜRE: 62.43 saniye
+--------------------
+CEVAP:
+Kiracı tarafından evin başkasına kiralayabilmesi için, kiracıya yetki verilmesi ve ev sahibinin rızası olması gerekir. Bu durum, Kiralama Hukuku'nun 7. maddesinde belirtilmiştir.
+
+==================================================
+
+--------------------------------------------------
+SORU 8: 8. Apartman aidatını ödemek kiracının borcu mudur yoksa ev sahibinin mi?
+SÜRE: 51.04 saniye
+--------------------
+CEVAP:
+Apartman aidatı kiracı tarafından ödenmezse ev sahibi bu aidatı tahsil edebilir ve bu da kiracının borcu olarak kabul edilir.
+
+==================================================
+
+--------------------------------------------------
+SORU 9: 9. Ev sahibi, "Oğlum gelecek" diyerek beni çıkarmak istiyor ama 3 yıl boyunca başkasına kiralayamayacağını duydum. Bu doğru mu?
+SÜRE: 74.07 saniye
+--------------------
+CEVAP:
+Ev sahibi kiracıya "Oğlum gelecek" diyerek çıkarmak istemediği takdirde, bu istemi reddederek kiracıya 3 yıl boyunca kiralık evde kalma izni vermelidir.
+
+==================================================
+
+--------------------------------------------------
+SORU 10: 10. Kiracı iflas ederse ev sahibi sözleşmeyi hemen feshedebilir mi? Şartları nelerdir?
+SÜRE: 167.60 saniye
+--------------------
+CEVAP:
+Üzgünüm, yasal mevzuatta net bir cevap bulamadım veya işlem çok uzadı.
+
+==================================================
+
+--------------------------------------------------
+SORU 11: 11. Konut kiralarında kirayı ödemeyen kiracıya tahliye davası açmadan önce en az kaç gün süre vermeliyim?
+SÜRE: 64.33 saniye
+--------------------
+CEVAP:
+Kanuna göre, kiracı kirayı ödemezse ev sahibi en az 30 gün süre vermelidir. Bu süre içinde ödenmezse tahliye davası açılabilir.
+
+==================================================
+
+--------------------------------------------------
+SORU 12: 12. Belirsiz süreli bir kira sözleşmem var. Evden çıkmak için ne kadar süre önceden bildirim yapmalıyım?
+SÜRE: 57.59 saniye
+--------------------
+CEVAP:
+Kiracı ve ev sahibi arasında bildirimlerin yapılması gerektiği Bilgiye bakındık. Bildirimler, 12. Belirsiz Süreli Kira Sözleşmesi ile ilgili Bilgiye bakındık.
+
+==================================================
+
+--------------------------------------------------
+SORU 13: 13. 1 yıllık kira sözleşmem bitti, ev sahibiyle yeni sözleşme yapmadık. Sözleşme bitti mi yoksa devam mı eder?
+SÜRE: 155.03 saniye
+--------------------
+CEVAP:
+1 yıllık kira sözleşmini tamamladı ve ev sahibi ile yeni bir sözleşme yapmadı. Sorusu ne zaman sona erer? Sözleşmenin sonlanması, 30 gün süreyle ihtarname çekilmeden evden çıkma yetkisi ile ilgili bir maddenin uygulanmasıyla belirlenir.
+
+==================================================
+
+--------------------------------------------------
+SORU 14: 14. Kiracı evi sözleşme bitmeden 5 ay önce boşalttı. Anahtarı verdi. Kira borcu hemen biter mi?
+SÜRE: 113.12 saniye
+--------------------
+CEVAP:
+Kiracı tarafından evin boşaltılması ve anahtarın verilmesi ile ilgili bir maddeye bakmak için "Kiracı evi boşaltır" keywordine arama yaptım. Bu nedenle, kira borcu hemen biter mi sorusuna cevabı veremeyeceğim.
+
+==================================================
+
+--------------------------------------------------
+SORU 15: 15. Ev sahibi evi sattı. Yeni ev sahibi beni hemen çıkarabilir mi, yoksa ne kadar süre beklemek zorunda?
+SÜRE: 58.50 saniye
+--------------------
+CEVAP:
+Kanun metni göre, yeni malik, tapu devrinden itibaren 1 ay içinde size ihtarname göndererek, 6 ay sonra tahliye davası açabilir. Bu süre içerisinde size ihtarname göndermezse, size ihtarname gönderdiğinde, size 30 gün süre verilir ve bu süre içerisinde size ihtarname göndermezse, size ihtarname gönderdiğinde size 30 gün süre verilir.
+
+==================================================
+
+--------------------------------------------------
+SORU 16: 16. 10 yıldır aynı evde oturuyorum. Ev sahibi hiçbir sebep göstermeden beni çıkarabilir mi?
+SÜRE: 65.19 saniye
+--------------------
+CEVAP:
+Kiracı 16 yıl oturan bir kiracı olarak, ev sahibi tarafından çıkarılma durumunu incelemeliyiz. Esasen, kiracı oturma hakkı Borçlar Kanunu 7/2 maddesinde düzenlenmiştir. Bu madde, kiracının oturma haklarını düzenler ve kiracı, ev sahibi tarafından çıkarılma durumunu 30 gün öncesinde bildirmelidir.
+
+==================================================
+
+--------------------------------------------------
+SORU 17: 17. İki haklı ihtar sebebiyle tahliye davası ne zaman açılmalıdır?
+SÜRE: 130.79 saniye
+--------------------
+CEVAP:
+Borçlar Kanunu'nun 17. maddesi, iki haklı ihtar sebebiyle tahliye davası açılabilmesi için kiracı ve ev sahibi arasında iki haklı ihtar beingi olması gerektiğini belirtir. Bu iki haklı ihtar beingi, kiracı tarafından kirayı ödenmediği veya ev sahibi tarafından kiraya verilmediği gibi, iki tarafın da bu konularda anlaşamaması ile gerçekleşir.
+
+==================================================
+
+--------------------------------------------------
+SORU 18: 18. Kiracı öldü. Mirasçıları sözleşmeyi ne zaman feshedebilir?
+SÜRE: 34.09 saniye
+--------------------
+CEVAP:
+Mirasçılar, kiracı vefatında sözleşmeyi en yakın fesih dönemi sonu için 3 gün öncesine kadar feshedebilirler.
+
+==================================================
+
+--------------------------------------------------
+SORU 19: 19. Taşınır mal kiralarında (örneğin araba kiralama) fesih bildirim süresi kaç gündür?
+SÜRE: 50.32 saniye
+--------------------
+CEVAP:
+Fesih bildirim süresi, kiracı ve ev sahibi arasındaki kira sözleşmesinde 30 gün olarak belirlenmiştir. Bu süre içinde fesih bildirimine gerek kalmadan, kiracı veya ev sahibi tarafından bir taraftan diğer tarafa feshi istenebilir.
+
+==================================================
+
+--------------------------------------------------
+SORU 20: 20. Ev sahibi kiracıyı "gereksinim" (ihtiyaç) nedeniyle çıkardıktan sonra, evi haklı bir sebep olmadan 1 yıl içinde başkasına kiralarsa ne olur?
+SÜRE: 193.40 saniye
+--------------------
+CEVAP:
+Cevap, Borçlar Kanunu'nun 20. maddesine göre, ev sahibi kiracıyı "gereksinim" (ihtiyaç) nedeniyle çıkarmak için en az 30 gün süre vermelidir. Bu süre içerisinde kiracı, evi satmak veya kiralık olarak kullanmak isteyebilir. Ev sahibi, bu süre içerisinde kiracıya ihtarname göndererek, 1 yıl içinde evi başkasına kiralayamaz.
+
+==================================================
+
+--------------------------------------------------
+SORU 21: 21. Ev sahibi benden 5 aylık kira bedeli kadar depozito (güvence) istiyor. Kanunen en fazla ne kadar isteyebilir?
+SÜRE: 68.34 saniye
+--------------------
+CEVAP:
+Ev sahibi, kiracıya 5 aylık kira bedeli kadar depozito istediğinde, en fazla 1 ay süre vermelidir. Bu süre içinde depozito ödenmezse, kiracı evden tahliye edilebilir.
+
+==================================================
+
+--------------------------------------------------
+SORU 22: 22. Depozitoyu elden ev sahibine verdim. Ev sahibi bunu harcadı. Kanunen paranın nerede durması gerekiyordu?
+SÜRE: 46.98 saniye
+--------------------
+CEVAP:
+Evi satın alan yeni ev sahibi, tapu devrinden itibaren 1 ay içinde size ihtarname göndererek, 6 ay sonra tahliye davası açabilir.
+
+==================================================
+
+--------------------------------------------------
+SORU 23: 23. Kira sözleşmesinde "Kirayı geciktirirsen %50 ceza ödersin" yazıyor. Bu cezayı ödemek zorunda mıyım?
+SÜRE: 73.38 saniye
+--------------------
+CEVAP:
+Evet, kira sözleşmesinde bulunan %50 cezanın uygulanması gerektiği için bu cezayı ödemek zorunda mıyorsunuz. Evet, bu ceza applyedilir ve ödemenin zorunluluğu vardır.
+
+==================================================
+
+--------------------------------------------------
+SORU 24: 24. 3 yıldır aynı evdeyim. Ev sahibi kirayı %200 artırmak istiyor. Buna hakkı var mı? Sınır nedir?
+SÜRE: 47.85 saniye
+--------------------
+CEVAP:
+Kiracıya %200 artırmaya çalışılmasına karşı hak verilmez. Ancak, kiracıya %100 artırmaya çalışılmasına karşı hak verilir.
+
+==================================================
+
+--------------------------------------------------
+SORU 25: 25. 5 yılı doldurmuş bir kiracının kirası nasıl belirlenir? Sadece TÜFE'ye mi bakılır?
+SÜRE: 43.68 saniye
+--------------------
+CEVAP:
+Kiracı'nın kirasını belirlenmesi için TÜFE'nin 25.5. maddesi ile Borçlar Kanunu'nun 27. maddesi arasında bir farklılık yoktur.
+
+==================================================
+
+--------------------------------------------------
+SORU 26: 26. Kira bedeli döviz (Dolar/Euro) olarak belirlendiyse, 3 yıl sonra artış yapılabilir mi?
+SÜRE: 60.08 saniye
+--------------------
+CEVAP:
+Kira bedeli, kiracı tarafından ödenen kira bedeline 3 yıl içinde en fazla %50 artışı yapılabilir. Bu meaning, kira bedelinin 3 yıl sonra artış yapılabilmesi için, kiracı tarafından ödenen kira bedeline %50'lik artış yapılabilmektedir.
+
+==================================================
+
+--------------------------------------------------
+SORU 27: 27. Kira bedelini belirlemek için açılacak dava (tespit davası) ne zaman açılmalıdır ki yeni dönemde geçerli olsun?
+SÜRE: 511.13 saniye
+--------------------
+CEVAP:
+Kanun maddesi 27, kira bedelini belirlemek için açilecek davanın (tespit davası) açılma tarihinden 30 gün önce ihtarname çekilmelidir.
+
+==================================================
+
+--------------------------------------------------
+SORU 28: 28. Kiracı kullanma giderlerini (ısıtma, aydınlatma) ödemezse bu tahliye sebebi sayılır mı?
+SÜRE: 69.82 saniye
+--------------------
+CEVAP:
+Üzgünüm, yasal mevzuatta net bir cevap bulamadım veya işlem çok uzadı.
+
+==================================================
+
+--------------------------------------------------
+SORU 29: 29. Temizlik ve bakım giderleri kime aittir?
+SÜRE: 761.62 saniye
+--------------------
+CEVAP:
+Temizlik ve bakım giderleri, genel olarak, bir bina veya tesisin temizliği ve korunması için yapılan işler ve malzeme ile ilgili giderler tarafından karşılanmaktadır.
+
+==================================================
+
+--------------------------------------------------
+SORU 30: 30. Kiracı kirayı ödemedi. Ev sahibi kiracının evdeki eşyalarına el koyabilir mi?
+SÜRE: 46.39 saniye
+--------------------
+CEVAP:
+Kiracı kirayı ödemediği takdirde ev sahibi, kiracının evdeki eşyalarını el koymak için 30 gün süre vermelidir. Bu süre içinde ödenmezse, ev sahibi kiracıyı tahliye edebilir.
+
+==================================================
+
+--------------------------------------------------
+SORU 31: 31. Evli bir çiftin kiraladığı aile konutunda, koca eşinin haberi olmadan kira sözleşmesini feshedebilir mi?
+SÜRE: 139.74 saniye
+--------------------
+CEVAP:
+Borçlar Kanunu ve Kira Hukuku'nun 31. maddesine göre, evli çiftlerin kiralığındaki durumunu düzenlerken, koca eşinin haberi olmadan kira sözleşmini feshetme konusunda herhangi bir düzenleme yoktur.
+
+==================================================
+
+--------------------------------------------------
+SORU 32: 32. Kiralanan evde sonradan büyük bir ayıp ortaya çıktı (örneğin kolonlar çatladı). Kiracı sözleşmeyi hemen feshedebilir mi?
+SÜRE: 34.12 saniye
+--------------------
+CEVAP:
+Kiralanmış evde sonradan büyük bir ayipa ortaya çıktı ve kiracı contracti feshedebilir. Ancak, contracti feshetmeden önce, kiracı, ev sahibine 30 gün süre vermelidir.
+
+==================================================
+
+--------------------------------------------------
+SORU 33: 33. İşyeri kirasında kiracı, kira sözleşmesini başka bir esnafa devredebilir mi? Ev sahibi buna itiraz edebilir mi?
+SÜRE: 56.71 saniye
+--------------------
+CEVAP:
+Eski kiracının kira sözleşmini başka bir esnafa devredebilir mi? Evet, bu durumla ilgili olarak 33. maddede yer alan hükümlere göre, kiracı, kira sözleşmini başka bir esnafa devredebilir. Bu durumun ev sahibi tarafından itiraz edilebilitiini ise, kiracı ve ev sahibi arasında newtromatik olarak bir dizi hukuksal sonuç doğurur.
+
+==================================================
+
+--------------------------------------------------
+SORU 34: 34. Ev sahibi evi satarsa mevcut kira sözleşmesi iptal mi olur, yoksa yeni ev sahibiyle devam mı eder?
+SÜRE: 63.47 saniye
+--------------------
+CEVAP:
+Evi satan ev sahibi, kiracıya ihtarname göndererek 30 gün süre vermelidir. Bu süre içinde ödenmezse kiracı tahliye edilir.
+
+==================================================
+
+--------------------------------------------------
+SORU 35: 35. Ev sahibi "Bina çürük, yıkıp yeniden yapacağız" diyerek tahliye istiyor. Binanın yıkılması şart mı?
+SÜRE: 63.54 saniye
+--------------------
+CEVAP:
+Bina çürüğü ve yıkım kararı alındığına dair ihtarname verilmesinde, ev sahibi tarafından 30 gün süre verilir. Bu süre içinde kiracı, ihtarnameyi kabul etmezse, ev sahibi, bina çürüğünü yıkarak, kiracıyı tahliye edebilir.
+
+==================================================
+
+--------------------------------------------------
+SORU 36: 36. Komşular kiracının gürültüsünden şikayetçi. Ev sahibi kiracıyı hemen çıkarabilir mi, prosedür nedir?
+SÜRE: 47.72 saniye
+--------------------
+CEVAP:
+36. Maddede "Ev sahiplerinin komşuların gürültüsünden şikayetçi olmasının hakları" beingir. Ev sahibi, kiracı gürültüsünden şikayetçi beingir ve 30 gün süre vermelidir. Bu süre içinde gürültü problemi çözülmezse, ev sahiplerinin hakları ile prosedürü uygulanabilir.
+
+==================================================
+
+--------------------------------------------------
+SORU 37: 37. Kiracı, kiralanan evde ev sahibinden izinsiz duvarı yıkıp odayı genişletebilir mi?
+SÜRE: 1073.99 saniye
+--------------------
+CEVAP:
+Kiralanan evde izinsiz duvarı yıkması gibi konular hakkında daha fazla bilgi almak istiyorsanız lütfen daha fazla bilgi sağlayın.
+
+==================================================
+
+--------------------------------------------------
+SORU 38: 38. Kira sözleşmesinde süre belirtilmemişse bu sözleşme ne zaman sona erer?
+SÜRE: 225.90 saniye
+--------------------
+CEVAP:
+Cevap, Borçlar Kanunu'nun 39. maddesine göre, kira sözleşmesinde süre belirtilmemişse bu sözleşme 1 (bir) yıl sonuna kadar devam eder.
+
+==================================================
+
+--------------------------------------------------
+SORU 39: 39. Kiraya veren, kiracının evde olmadığı bir saatte "Evi kontrol edeceğim" diyerek içeri girebilir mi?
+SÜRE: 50.37 saniye
+--------------------
+CEVAP:
+Kanuna göre, kiracı tarafından evde olmadığı bir saatte kiraya veren, evi kontrol edilebilmektedir.
+
+==================================================
+
+--------------------------------------------------
+SORU 40: 40. Üçüncü bir kişi gelip "Bu evin gerçek sahibi benim" derse ve kiracıdan çıkmasını isterse, kiraya verenin sorumluluğu nedir?
+SÜRE: 47.30 saniye
+--------------------
+CEVAP:
+40. maddenin uygulanması ile ilgili olarak, kiraya verenin 3. kişiden çıkarmak için yetkili olduğu anlaşılmaktadır.
+
+==================================================
+
+--------------------------------------------------
+SORU 41: 41. Kiracı kirayı ödemediği için ihtarname gönderdim. 30 gün dolmadan borcu ödedi. Yine de tahliye davası açabilir miyim?
+SÜRE: 66.31 saniye
+--------------------
+CEVAP:
+Kanuna göre, kiracı kirayı ödemişse, kiracı temerrüt süresi bitmiştir ve kiracı, kirayı ödemediği için ihtarname gönderdiğinde, 30 gün süre vermelidir. Bu süre içinde ödenmezse, kiracı, kirayı ödemediği için tahliye davası açabilir.
+
+==================================================
+
+--------------------------------------------------
+SORU 42: 42. 1 yıllık sözleşmem var. 6. ayda ev sahibi "Kendim oturacağım" diye ihtar çekti. Hemen çıkmak zorunda mıyım yoksa sürenin sonunu mu beklemeliyim?
+SÜRE: 72.73 saniye
+--------------------
+CEVAP:
+Kanuna göre, kiracı 42. year-long contract'a sahiptir ve 6. ayda ev sahibi "Kendim oturacağım" diye ihtarname çekti. Bu, kiracı için 30 günlük temerrüt süresi beginningindir. Bu süre içinde, kiracı ödemişse, 30 gün süren temerrüt süresi sona erdi.
+
+==================================================
+
+--------------------------------------------------
+SORU 43: 43. Yeni satın aldığım evde kiracı var. Kiracıyı çıkarmak istiyorum ama eski ev sahibiyle sözleşmeleri 3 yıl daha devam ediyor. Ne yapabilirim?
+SÜRE: 130.77 saniye
+--------------------
+CEVAP:
+Eski ev sahibi ile kiracı arasında sözleşmenin terk edilmesi için, kiracı 1 ay öncesinde ihtarname göndermelidir ve 30 gün süre verilmelidir. Bu süre içinde, kiracı sözleşmeyi terk edemezse, ev sahipleri tarafından tahliye davası açılabilir.
+
+==================================================
+
+--------------------------------------------------
+SORU 44: 44. Kiracı evi erken tahliye etti ama anahtarı teslim ettiğine dair belge almadı. Kira borcu devam eder mi?
+SÜRE: 44.11 saniye
+--------------------
+CEVAP:
+Kiracı tarafından evin erken tahliyesi ve anahtar teslim edilememe durumunu kabul etmediği sürece kira borcu devam eder.
+
+==================================================
+
+--------------------------------------------------
+SORU 45: 45. Kiracı depozito olarak senet verdi. Ev sahibi bu senedi işleme koyabilir mi?
+SÜRE: 40.76 saniye
+--------------------
+CEVAP:
+Kiracı tarafından depozito olarak verilmiş bir seneti ev sahibi tarafından işleme konulamaz.
+
+==================================================
+
+--------------------------------------------------
+SORU 46: 46. Kiralanan işyerinde kiracı öldü. Ortakları işe devam etmek istiyor. Ev sahibi "Sözleşme bitti" diyebilir mi?
+SÜRE: 79.44 saniye
+--------------------
+CEVAP:
+Borçlar Kanunu'nun 46. maddesine göre, kiracı öldüğü için, ev sahibi tarafından "Sözleşme bitti" diyilmesine dair bir cevap verilemez. Ortaklar işe devam etmek istiyor ve bu durumla ilgili Borçlar Kanunu'nun 46. maddesi relevant dir. Ev sahibi, kiracı öldüğünden sonra, ortaklara ihtarname göndererek, kirayı ödenmemesi durumunda 6 ay süre vermelidir. Bu süre içinde, ortaklar kirayı ödemeye devam edebilirler.
+
+==================================================
+
+--------------------------------------------------
+SORU 47: 47. Ev sahibi ve kiracı anlaşıp "Kiracı kirayı ödemezse hapis cezası alır" diye sözleşmeye madde koyabilirler mi?
+SÜRE: 45.57 saniye
+--------------------
+CEVAP:
+Kiracı kirayı ödemezse, ev sahibi kiracıya 30 gün süre vermelidir. Bu süre içinde ödenmezse, ev sahibi kiracıya tahliye davası açabilir.
+
+==================================================
+
+--------------------------------------------------
+SORU 48: 48. Kiracı evi başkasına devretti (alt kira). Alt kiracı eve zarar verirse ev sahibi asıl kiracıdan tazminat isteyebilir mi?
+SÜRE: 61.74 saniye
+--------------------
+CEVAP:
+Alt kiralık personelin evi zarar verdiğinde, ev sahibi asıl kiracıdan tazminat isteme haklıdır.
+
+==================================================
+
+--------------------------------------------------
+SORU 49: 49. Belirsiz süreli işyeri kirasında fesih bildirim süresi konutla aynı mıdır?
+SÜRE: 66.20 saniye
+--------------------
+CEVAP:
+Fesih bildirim süresi, Borçlar Kanunu'nun 49. maddesinde "Belirsiz süreli işyeri kirasında, fesih bildirim süresi konutla aynıdır." ifadesiyle belirlenmiştir. Bu meaninge göre, Belirsiz süreli işyeri kirasında fesih bildirim süresi de konutla aynıdır.
+
+==================================================
+
+--------------------------------------------------
+SORU 50: 50. Ev sahibi tadilat nedeniyle kiracıyı çıkardı. Tadilat bitti. Eski kiracıyı çağırmadan başkasına kiralayabilir mi?
+SÜRE: 43.32 saniye
+--------------------
+CEVAP:
+50. maddeye göre, ev sahibi kiracı outed being because of tadilat (tadilat nedeniyle) ise, kiracıyı çağırmadan başkasına kiralayamaz. Eski kiracıyı çağırmadan başkasına kiralayabilir mi? Cevabı hayır.
+
+==================================================

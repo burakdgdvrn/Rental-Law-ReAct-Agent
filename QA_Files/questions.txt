@@ -1,0 +1,50 @@
+1. Bir ev kiraladım ama kombisi bozuk çıktı. Ev sahibi yaptırmıyor. Kendi cebimden yaptırıp kiradan düşebilir miyim?
+2. Kiralanan evi teslim aldığımda boyası çok kötüydü. Evden çıkarken evi boyatmak zorunda mıyım?
+3. Ev sahibi, kira sözleşmesine "Evi erken boşaltırsan kalan ayların kirasını peşin ödersin" diye bir madde koymuş. Bu madde geçerli midir?
+4. Kiracı kirayı ödemezse, ev sahibi elektriğini ve suyunu kestirebilir mi?
+5. Kiralanan evde yangın çıktı ve eşyalarım zarar gördü. Ev sahibinin kusuru yoksa yine de zararımı ödemek zorunda mı?
+6. Kiraladığım dükkana tadilat yaptım ve değerini artırdım. Çıkarken bu değer artışını ev sahibinden isteyebilir miyim?
+7. Kiracı, ev sahibinden habersiz evi başkasına (alt kiracıya) kiralayabilir mi? Konut ve işyeri fark eder mi?
+8. Apartman aidatını ödemek kiracının borcu mudur yoksa ev sahibinin mi?
+9. Ev sahibi, "Oğlum gelecek" diyerek beni çıkarmak istiyor ama 3 yıl boyunca başkasına kiralayamayacağını duydum. Bu doğru mu?
+10. Kiracı iflas ederse ev sahibi sözleşmeyi hemen feshedebilir mi? Şartları nelerdir?
+11. Konut kiralarında kirayı ödemeyen kiracıya tahliye davası açmadan önce en az kaç gün süre vermeliyim?
+12. Belirsiz süreli bir kira sözleşmem var. Evden çıkmak için ne kadar süre önceden bildirim yapmalıyım?
+13. 1 yıllık kira sözleşmem bitti, ev sahibiyle yeni sözleşme yapmadık. Sözleşme bitti mi yoksa devam mı eder?
+14. Kiracı evi sözleşme bitmeden 5 ay önce boşalttı. Anahtarı verdi. Kira borcu hemen biter mi?
+15. Ev sahibi evi sattı. Yeni ev sahibi beni hemen çıkarabilir mi, yoksa ne kadar süre beklemek zorunda?
+16. 10 yıldır aynı evde oturuyorum. Ev sahibi hiçbir sebep göstermeden beni çıkarabilir mi?
+17. İki haklı ihtar sebebiyle tahliye davası ne zaman açılmalıdır?
+18. Kiracı öldü. Mirasçıları sözleşmeyi ne zaman feshedebilir?
+19. Taşınır mal kiralarında (örneğin araba kiralama) fesih bildirim süresi kaç gündür?
+20. Ev sahibi kiracıyı "gereksinim" (ihtiyaç) nedeniyle çıkardıktan sonra, evi haklı bir sebep olmadan 1 yıl içinde başkasına kiralarsa ne olur?
+21. Ev sahibi benden 5 aylık kira bedeli kadar depozito (güvence) istiyor. Kanunen en fazla ne kadar isteyebilir?
+22. Depozitoyu elden ev sahibine verdim. Ev sahibi bunu harcadı. Kanunen paranın nerede durması gerekiyordu?
+23. Kira sözleşmesinde "Kirayı geciktirirsen %50 ceza ödersin" yazıyor. Bu cezayı ödemek zorunda mıyım?
+24. 3 yıldır aynı evdeyim. Ev sahibi kirayı %200 artırmak istiyor. Buna hakkı var mı? Sınır nedir?
+25. 5 yılı doldurmuş bir kiracının kirası nasıl belirlenir? Sadece TÜFE'ye mi bakılır?
+26. Kira bedeli döviz (Dolar/Euro) olarak belirlendiyse, 3 yıl sonra artış yapılabilir mi?
+27. Kira bedelini belirlemek için açılacak dava (tespit davası) ne zaman açılmalıdır ki yeni dönemde geçerli olsun?
+28. Kiracı kullanma giderlerini (ısıtma, aydınlatma) ödemezse bu tahliye sebebi sayılır mı?
+29. Temizlik ve bakım giderleri kime aittir?
+30. Kiracı kirayı ödemedi. Ev sahibi kiracının evdeki eşyalarına el koyabilir mi?
+31. Evli bir çiftin kiraladığı aile konutunda, koca eşinin haberi olmadan kira sözleşmesini feshedebilir mi?
+32. Kiralanan evde sonradan büyük bir ayıp ortaya çıktı (örneğin kolonlar çatladı). Kiracı sözleşmeyi hemen feshedebilir mi?
+33. İşyeri kirasında kiracı, kira sözleşmesini başka bir esnafa devredebilir mi? Ev sahibi buna itiraz edebilir mi?
+34. Ev sahibi evi satarsa mevcut kira sözleşmesi iptal mi olur, yoksa yeni ev sahibiyle devam mı eder?
+35. Ev sahibi "Bina çürük, yıkıp yeniden yapacağız" diyerek tahliye istiyor. Binanın yıkılması şart mı?
+36. Komşular kiracının gürültüsünden şikayetçi. Ev sahibi kiracıyı hemen çıkarabilir mi, prosedür nedir?
+37. Kiracı, kiralanan evde ev sahibinden izinsiz duvarı yıkıp odayı genişletebilir mi?
+38. Kira sözleşmesinde süre belirtilmemişse bu sözleşme ne zaman sona erer?
+39. Kiraya veren, kiracının evde olmadığı bir saatte "Evi kontrol edeceğim" diyerek içeri girebilir mi?
+40. Üçüncü bir kişi gelip "Bu evin gerçek sahibi benim" derse ve kiracıdan çıkmasını isterse, kiraya verenin sorumluluğu nedir?
+41. Kiracı kirayı ödemediği için ihtarname gönderdim. 30 gün dolmadan borcu ödedi. Yine de tahliye davası açabilir miyim?
+42. 1 yıllık sözleşmem var. 6. ayda ev sahibi "Kendim oturacağım" diye ihtar çekti. Hemen çıkmak zorunda mıyım yoksa sürenin sonunu mu beklemeliyim?
+43. Yeni satın aldığım evde kiracı var. Kiracıyı çıkarmak istiyorum ama eski ev sahibiyle sözleşmeleri 3 yıl daha devam ediyor. Ne yapabilirim?
+44. Kiracı evi erken tahliye etti ama anahtarı teslim ettiğine dair belge almadı. Kira borcu devam eder mi?
+45. Kiracı depozito olarak senet verdi. Ev sahibi bu senedi işleme koyabilir mi?
+46. Kiralanan işyerinde kiracı öldü. Ortakları işe devam etmek istiyor. Ev sahibi "Sözleşme bitti" diyebilir mi?
+47. Ev sahibi ve kiracı anlaşıp "Kiracı kirayı ödemezse hapis cezası alır" diye sözleşmeye madde koyabilirler mi?
+48. Kiracı evi başkasına devretti (alt kira). Alt kiracı eve zarar verirse ev sahibi asıl kiracıdan tazminat isteyebilir mi?
+49. Belirsiz süreli işyeri kirasında fesih bildirim süresi konutla aynı mıdır?
+50. Ev sahibi tadilat nedeniyle kiracıyı çıkardı. Tadilat bitti. Eski kiracıyı çağırmadan başkasına kiralayabilir mi?
