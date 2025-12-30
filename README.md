@@ -81,6 +81,7 @@ The agent is designed to self-correct. If it repeats an action or gets stuck, th
 * **tbk_chunks_metadata.json:** The knowledge base (Legal text chunks).
 * **tbk_chunks_embeddings.npy:** Pre-computed vector embeddings for fast search.
 * **requirements.txt:** List of Python dependencies.
+* **QA_Files:** Bencmark Files
 
 ### ⚠️ Notes
 * This project runs entirely offline (Locally).
